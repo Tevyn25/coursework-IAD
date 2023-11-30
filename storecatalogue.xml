@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="gamecatalogue.css"?>
+
+<CATALOG>
+<GAME>
+<Product>Call of Duty MW3</Product>
+<Rating>18 rated</Rating>
+<Price>£65</Price>
+</GAME>
+<GAME>
+    <Product>Spiderman 2</Product>
+    <Rating>16 rated</Rating>
+    <Price>£60</Price>
+</GAME>
+<ACCESSORY>
+    <Product>PS5 controller</Product>
+    <Price>£45</Price>
+</ACCESSORY>
+<GAME>
+    <Product>Minecraft</Product>
+    <Rating>7 rated</Rating>
+    <Price>£20</Price>
+</GAME>
+<GAME>
+    <Product>Grand Theft Auto V</Product>
+    <Rating>18 rated</Rating>
+    <Price>£30</Price>
+</GAME>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</CATALOG>

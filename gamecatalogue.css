@@ -1,0 +1,32 @@
+CATALOG {
+    background-image: linear-gradient(blue,green);
+    width: 100%;
+    }
+    GAME {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    ACCESSORY {
+        display: block;
+        margin-bottom: 30pt;
+        margin-left: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        }
+        Product {
+            display: block;
+            color: #ff0000;
+            font-size: 20pt;
+            }
+    Rating {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+    }
+    Price {
+    display: block;
+    color: #c2c2d2;
+    font-size: 20pt;
+    }
+   
